@@ -21,7 +21,7 @@ Download the application for free on Windows, Mac and Linux from: https://dispix
 
 ## Features
 
-## Infinite Challenge
+### Infinite Challenge
 
 Test your reflexes and endurance as you fly through an infinite space of pixelated and colorful cubes. How long can you survive in the storm?
 
