@@ -12,6 +12,7 @@ One of my first games ever made in Unity.
 Download the application for free on Windows, Mac and Linux from: https://dispixel.itch.io/cubestorm
 
 <p align="center">
+  <img src="https://github.com/Nanoparty/CubeStorm/blob/master/Screenshots/gameplay1.png" />
   <img src="1.png" />
   <img src="2.png" />
   <img src="3.png" />
