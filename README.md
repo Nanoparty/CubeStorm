@@ -30,3 +30,5 @@ Test your reflexes and endurance as you fly through an infinite space of pixelat
 This project uses the following free assets:
 
 - [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
+
+© Nathan Foote | 2018
